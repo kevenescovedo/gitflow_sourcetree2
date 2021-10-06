@@ -10,6 +10,7 @@
 </head>
 <body>
     <h1>LOGIN</h1>
+    
     <form action='process_login.php' method='POST'>
         <label>Nome:</lbabel>
         <input type= 'text' name= 'login' id='login'/> </br>
@@ -20,5 +21,6 @@
 
     </form>
    <p>realize login para entrar no sistema</p>
+   <a href="#">Esqueçeu a senha?</a>
 </body>
 </html>
