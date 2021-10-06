@@ -20,7 +20,7 @@
         <input type='submit' value='entrar'/> 
 
     </form>
-    <a href="#">Esqueçeu a senha?</a>
    <p>realize login para entrar no sistema</p>
+   <a href="#">Esqueçeu a senha?</a>
 </body>
 </html>
