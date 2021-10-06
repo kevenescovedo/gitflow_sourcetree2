@@ -17,7 +17,7 @@
         <input type= 'password' name= 'senha' id='senha'/></br>
 </br>
         <input type='submit' value='entrar'/> 
-
+  <p>Loge para poder usar o sistema</p>
     </form>
 </body>
 </html>
